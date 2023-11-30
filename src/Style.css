@@ -1,0 +1,11 @@
+.weather-box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+  }
+  
+  .weather-info {
+    margin-top: 10px;
+  }
+  

@@ -1,0 +1,14 @@
+.app-header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+  }
+  
+.header-title {
+    font-size: 2.5em;
+    font-weight: bold;
+    margin: 0;
+}
+  
